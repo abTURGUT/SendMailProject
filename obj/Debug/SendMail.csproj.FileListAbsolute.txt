@@ -1,0 +1,9 @@
+C:\Users\abdll\source\repos\YandexMail\obj\Debug\SendMail.csprojAssemblyReference.cache
+C:\Users\abdll\source\repos\YandexMail\obj\Debug\SendMail.Form1.resources
+C:\Users\abdll\source\repos\YandexMail\obj\Debug\YandexMail.Properties.Resources.resources
+C:\Users\abdll\source\repos\YandexMail\obj\Debug\SendMail.csproj.GenerateResource.cache
+C:\Users\abdll\source\repos\YandexMail\obj\Debug\YandexMail.exe
+C:\Users\abdll\source\repos\YandexMail\obj\Debug\YandexMail.pdb
+C:\Users\abdll\source\repos\YandexMail\bin\Debug\YandexMail.exe.config
+C:\Users\abdll\source\repos\YandexMail\bin\Debug\YandexMail.exe
+C:\Users\abdll\source\repos\YandexMail\bin\Debug\YandexMail.pdb
